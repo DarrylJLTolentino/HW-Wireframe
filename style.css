@@ -13,4 +13,5 @@ div.text-center{
 
 #header, #nav, #footer{
     background: #ebebeb;
+    padding: 35px;
 }
