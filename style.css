@@ -25,37 +25,37 @@ div.text-center{
     margin-top: 12px;
     margin-left: 12px;
     margin-bottom: 24px; 
-    padding-top: 15px;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
+    padding-top: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 5px;
 }
 
 #article{
     background: #777;
     color: #ebebeb;
-    margin: 25px, 10px, 10px, 10px;
-    padding-top: 15px;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
+    margin: 20px 10px 10px 10px;
+    padding-top: 20px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 7px;
 }
 
 #articleHeader, #paragraph{
     background: #ebebeb;
     color: #777;
     margin: 10px;
+    padding: 15px;
 }
 
 #aside{
     background: #ebebeb;
     float: right;
-    width: 350px;
+    width: 375px;
     margin-top: 12px;
     margin-right: 12px;
     margin-bottom: 24px;
-    padding-top: 15px;
+    padding-top: 30px;
     padding-left: 15px;
-    padding-bottom: 225px;
+    padding-bottom: 215px;
 }
-
