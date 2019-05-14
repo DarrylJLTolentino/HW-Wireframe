@@ -26,13 +26,25 @@ div.text-center{
     margin-left: 12px;
     margin-bottom: 24px; 
     padding-top: 15px;
-    padding-bottom: 225px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+
+#article{
+    background: #777;
+    color: #ebebeb;
+    margin: 25px, 10px, 10px, 10px;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
 }
 
 #aside{
     background: #ebebeb;
     float: right;
-    width: 400px;
+    width: 350px;
     margin-top: 12px;
     margin-right: 12px;
     margin-bottom: 24px;
@@ -40,3 +52,4 @@ div.text-center{
     padding-left: 15px;
     padding-bottom: 225px;
 }
+
