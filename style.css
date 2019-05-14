@@ -4,12 +4,13 @@ body{
     background: #777;
     width: 960px;
     font-size: 18px;
+    margin: auto;
 }
 
 div.text-center{
     text-align: center;
 }
 
-#header, #nav{
+#header, #nav, #footer{
     background: #ebebeb;
 }
