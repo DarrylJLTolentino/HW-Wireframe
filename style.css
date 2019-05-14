@@ -14,4 +14,12 @@ div.text-center{
 #header, #nav, #footer{
     background: #ebebeb;
     padding: 35px;
+    clear: both;
+}
+
+#section{
+    background: #ebebeb;
+    float: left;
+    width: 495px;
+    margin: 10px;
 }
