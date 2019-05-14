@@ -14,7 +14,7 @@ div.text-center{
 #header, #nav, #footer{
     background: #ebebeb;
     padding: 35px;
-    margin: 15px;
+    margin: 12px;
     clear: both;
 }
 
@@ -22,10 +22,21 @@ div.text-center{
     background: #ebebeb;
     float: left;
     width: 495px;
-    margin-top: 15px;
-    margin-left: 15px;
-    margin-right: 15px;
-    margin-bottom: 30px; 
+    margin-top: 12px;
+    margin-left: 12px;
+    margin-bottom: 24px; 
     padding-top: 15px;
+    padding-bottom: 225px;
+}
+
+#aside{
+    background: #ebebeb;
+    float: right;
+    width: 400px;
+    margin-top: 12px;
+    margin-right: 12px;
+    margin-bottom: 24px;
+    padding-top: 15px;
+    padding-left: 15px;
     padding-bottom: 225px;
 }
