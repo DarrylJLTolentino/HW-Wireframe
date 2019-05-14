@@ -41,6 +41,12 @@ div.text-center{
     padding-bottom: 15px;
 }
 
+#articleHeader, #paragraph{
+    background: #ebebeb;
+    color: #777;
+    margin: 10px;
+}
+
 #aside{
     background: #ebebeb;
     float: right;
