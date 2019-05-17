@@ -8,8 +8,11 @@ This is a basic wireframe layout for websites that would have a header, navigati
 1. [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 2. [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
+## Versioning
+1. [Github](https://github.com/)
+
 ## Author
 - Darryl Tolentino
 
-##Acknowledgements
-- Jake Dudum: For bouncing ideas off of as we worked on the assignment.
+## Acknowledgements
+- Jake Dudum: For bouncing ideas off of and inspiration as we worked on the assignment.
